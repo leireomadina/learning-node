@@ -1,0 +1,8 @@
+# dependencies
+node_modules
+
+# txt output files
+output/*.txt
+
+# misc
+.DS_Store
